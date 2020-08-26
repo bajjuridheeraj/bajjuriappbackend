@@ -1,2 +1,0 @@
-# bajjuriappbackend
-project for bajjuriappbackend
